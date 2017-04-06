@@ -1,0 +1,11 @@
+resource,byte
+GET /shuttle/missions/sts-71/movies/sts-71-launch.mpg HTTP/1.0,4830802668
+GET / HTTP/1.0,4820688397
+GET /shuttle/missions/sts-71/movies/sts-71-tcdt-crew-walkout.mpg HTTP/1.0,4505833864
+GET /shuttle/missions/sts-53/movies/sts-53-launch.mpg HTTP/1.0,3160325280
+GET /shuttle/countdown/count70.gif HTTP/1.0,1959003012
+GET /shuttle/technology/sts-newsref/stsref-toc.html HTTP/1.0,1255980344
+GET /shuttle/countdown/video/livevideo2.gif HTTP/1.0,1169155568
+GET /shuttle/countdown/count.gif HTTP/1.0,1154002480
+GET /shuttle/missions/sts-71/movies/sts-71-hatch-hand-group.mpg,1135756810
+GET /shuttle/countdown/video/livevideo.gif HTTP/1.0,1128333928
