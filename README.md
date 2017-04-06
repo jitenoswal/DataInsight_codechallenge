@@ -1,3 +1,15 @@
+Comments: 
+
+1. My implementation is using Pandas and I have done some critical optimizations around initial load vs repeat load of log file.
+2. I have used on disk storage to save dataframes on disk to help with how much data we hold in memory and not overload the ram when we are only going to use small subset of the data. 
+3. For some reason the test instructions got me stuck as also I didn't anticipate them to be so complicated IMO. Also, having test output for a test input file would be to validate our results locally.
+4. This was a very good projects making me scratch through some of my pandas skills as some required optimizations which were critical as we were dealing with a decently large dataset 4.5 million rows. 
+5. 4th one I feel was the most challenging and probably if I had spent more time on this I would have finished it to my satisfaction but couldn't due to day-time job. 
+6. I have added some nice exploratary details in logs around time spent and about the data shape and probably would be interesting to do some more stuff. 
+
+
+
+
 # Table of Contents
 1. [Challenge Summary](README.md#challenge-summary)
 2. [Details of Implementation](README.md#details-of-implementation)
